@@ -1,11 +1,8 @@
-package com.app.simplemainactivityapp;
+package com.app.dmytrobuhai_pzpi_18_10;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.app.AlertDialog;
-import android.graphics.Color;
 import android.os.Bundle;
-import android.view.Gravity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.CheckBox;

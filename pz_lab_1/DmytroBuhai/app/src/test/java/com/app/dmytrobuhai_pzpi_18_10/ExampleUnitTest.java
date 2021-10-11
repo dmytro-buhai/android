@@ -1,4 +1,4 @@
-package com.app.simplemainactivityapp;
+package com.app.dmytrobuhai_pzpi_18_10;
 
 import org.junit.Test;
 
